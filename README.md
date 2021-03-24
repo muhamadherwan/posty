@@ -8,3 +8,15 @@
 ## About Posty
 
 A simple tweeter clone buid with laravel 8 and mysql.
+
+# Todos
+* [ x ] Setup routes, view and layout.
+* [ x ] Setup Laravel Mix and Tailwind Css.
+* [ x ] Styling the layout.
+* [ ] Running migrations
+* [ ] Register users.
+* [ ] Sign in after register.
+* [ ] Aunthenticated state
+* [ ] Login.
+* [ ] Logout.
+
