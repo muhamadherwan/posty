@@ -9,7 +9,7 @@
 
 A simple tweeter clone buid with laravel 8 and mysql.
 
-# Todos
+## Todos
 * [ x ] Setup routes, view and layout.
 * [ x ] Setup Laravel Mix and Tailwind Css.
 * [ x ] Styling the layout.
