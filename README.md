@@ -20,3 +20,6 @@ A simple tweeter clone buid with laravel 8 and mysql.
 * [   ] Login.
 * [   ] Logout.
 
+## Log
+* 27 Mar 2021 - register.blade.php - register form validation. 
+
